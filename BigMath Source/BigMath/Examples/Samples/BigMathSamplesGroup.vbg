@@ -1,0 +1,3 @@
+VBGROUP 5.0
+StartupProject=BigMathSamples.vbp
+Project=..\..\BigMathSource\BigMath.vbp
